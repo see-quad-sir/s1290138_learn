@@ -1,0 +1,12 @@
+README.md
+setup.py
+pami.egg-info/PKG-INFO
+pami.egg-info/SOURCES.txt
+pami.egg-info/dependency_links.txt
+pami.egg-info/requires.txt
+pami.egg-info/top_level.txt
+s1290138_learn/__init__.py
+s1290138_learn/statistics/__init__.py
+s1290138_learn/statistics/frequenciesOfItems.py
+s1290138_learn/visualization/__init__.py
+s1290138_learn/visualization/heatMapItemsFrequencies.py
